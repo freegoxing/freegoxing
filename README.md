@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @freegoxing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔍 Interested in Embedded Systems, AI, and Knowledge Graphs  
 
-<!---
-freegoxing/freegoxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack
+- Languages: C / Python / Rust  
+- Embedded: STM32, Embedded Linux  
+- AI & ML: GNN, TinyML, Deep Learning  
+- Tools: Linux, Git, Neovim, LaTeX, Typst  
+
+## 📌 Current Focus
+- Knowledge Graph–based Learning Path Planning  
+- RGCN Encoder & Reinforcement Learning  
+- AI applications on edge devices  
